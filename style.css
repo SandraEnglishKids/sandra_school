@@ -386,6 +386,9 @@ font-size: larger;
     .deal_text {
         margin: 10px;
     }
+    .social {
+        margin-top: 10px;
+        }
     
     .map {
         width: 300px;
@@ -460,6 +463,10 @@ font-size: larger;
     .menu_1 {
         max-width: 300px;
     }
+
+    .social {
+        margin-top: 10px;
+        }
             .tab_cont {
         margin-right: 50px;
     }
