@@ -460,4 +460,7 @@ font-size: larger;
     .menu_1 {
         max-width: 300px;
     }
+            .tab_cont {
+        margin-right: 50px;
+    }
 }
