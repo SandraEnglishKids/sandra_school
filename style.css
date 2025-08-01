@@ -348,7 +348,7 @@ font-size: larger;
 
 
 
-@media all and (max-width: 1400px) {
+@media all and (max-width: 1600px) {
 
     .mobile-container {
         display: inline;
@@ -551,5 +551,6 @@ font-size: larger;
         color: white;
       }
 }
+
 
 
