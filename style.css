@@ -348,7 +348,7 @@ font-size: larger;
 
 
 
-@media all and (max-width: 900px) {
+@media all and (max-width: 1100px) {
 
     .mobile-container {
         display: inline;
@@ -402,13 +402,17 @@ font-size: larger;
         max-width: 300px;
     }
 
+    .cta {
+        width: 250px;
+    }
+
     .mobile-container {
         
         margin: auto;
         color: white;
         border-radius: 10px;
       }
-      
+          
       .topnav {
         overflow: hidden;
         background-color: #e3b5c0;
@@ -498,6 +502,10 @@ font-size: larger;
         margin-top: 10px;
         }
 
+    .cta {
+        width: 250px;
+    }
+
 
     .mobile-container {
         max-width: 480px;
@@ -535,7 +543,7 @@ font-size: larger;
       
       .topnav a:hover {
         background-color: #c55e7c;
-        color: grey;
+        color: white;
       }
       
       .active {
