@@ -530,7 +530,11 @@ font-size: larger;
     .cta {
         width: 250px;
     }
-
+    
+    .cta_pr {
+        width: 140px;
+        font-size: 15px;
+    }
 
     .mobile-container {
         max-width: 480px;
