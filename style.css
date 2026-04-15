@@ -473,6 +473,7 @@ font-size: larger;
         }
 
         .box {
+            width: 300px;
             margin-right: 100px;
                         }
     
