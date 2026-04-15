@@ -420,6 +420,12 @@ font-size: larger;
         width: 250px;
     }
 
+        .cta_pr {
+        width: 250px;
+        padding: 2px;
+        margin-bottom: 10px
+    }
+
     .mobile-container {
         
         margin: auto;
