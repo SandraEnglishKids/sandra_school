@@ -372,6 +372,10 @@ font-size: larger;
         display: none;  
     }
 
+    .box {
+            width: 300px;
+            margin-right: 100px;
+                        }
     
     .flip-box-front, .flip-box-back {
         width: 100%;
